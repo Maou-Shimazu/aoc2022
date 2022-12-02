@@ -1,0 +1,9 @@
+[project]
+name = "CalorieCounting"
+version = "1.0.0"
+edition = "2022"
+include = "include"
+src = "src/main.cpp"
+standard = "17"
+
+[dependencies]
